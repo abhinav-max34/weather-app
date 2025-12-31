@@ -33,6 +33,14 @@ function showMonthlyTemp() {
     "Week 4: 31°C";
 }
 function getWeather() {
+Weather App
+
+[ Enter city name ]
+
+[ Show Weather ]
+
+Temperature: ...
+
 
 
 
