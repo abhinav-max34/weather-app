@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: blue;
+}
+Weather App
+
+[ Enter city name ]
+
+[ Show Weather ]
+
+Temperature: ...
+body {
+    font-family: 'Roboto', sans-serif;
+}
