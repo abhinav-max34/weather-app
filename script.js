@@ -32,6 +32,8 @@ function showMonthlyTemp() {
     "Week 3: 32°C<br>" +
     "Week 4: 31°C";
 }
+function getWeather() {
+
 
 
 
