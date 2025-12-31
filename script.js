@@ -1,5 +1,5 @@
 // Replace with your own OpenWeatherMap API key
-let apiKey = "YOUR_API_KEY";
+let apiKey = "fdb8124c26cdbfb5df776b72294d945d";
 
 function getWeather() {
     let city = document.getElementById("city").value;
@@ -32,6 +32,7 @@ function showMonthlyTemp() {
     "Week 3: 32°C<br>" +
     "Week 4: 31°C";
 }
+
 
 
 
